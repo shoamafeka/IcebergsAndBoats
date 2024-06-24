@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_default">32dp</dimen>
+    <dimen name="heart_width">140dp</dimen>
+    <dimen name="heart_height">40dp</dimen>
+    <dimen name="margin_heart">16dp</dimen>
+</resources>
